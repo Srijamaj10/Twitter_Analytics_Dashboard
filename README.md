@@ -61,4 +61,5 @@ While the dashboard effectively highlights key metrics, some visualizations may 
 
 ---
 **Author**: Srija Majumdar  
-**Contact**: https://www.linkedin.com/in/srija-majumdar-a686772a2
+**Contact**: 
+Srija Majumdar Linkdin - https://www.linkedin.com/in/srija-majumdar-a686772a2

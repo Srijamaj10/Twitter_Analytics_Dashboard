@@ -59,10 +59,6 @@ While the dashboard effectively highlights key metrics, some visualizations may 
 - Add drill-through pages or advanced filters for deeper insights.
 - Integrate additional metrics or external data sources.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
 ---
 **Author**: Srija Majumdar  
 **Contact**: https://www.linkedin.com/in/srija-majumdar-a686772a2
